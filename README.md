@@ -1,2 +1,2 @@
-# power-switch-v2-web
- Web Interface for Power Switch System V2
+# power-switch-v1-
+ Web Interface for Power Switch System V1
